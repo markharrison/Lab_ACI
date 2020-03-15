@@ -1,10 +1,10 @@
 # Azure Container Instance - Hands-on Lab Script
 
-Mark Harrison : 24 Nov 2017
+Mark Harrison :  checked & updated 14 March 2020 - original 24 Nov 2017
 
 ![](Images/ACI.png)
 
 - [Part 1 - Azure Container Instance](aci.md)
 
 ---
-<http://github.markharrison.io>
+<http://github.com/markharrison>
