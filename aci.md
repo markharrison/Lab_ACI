@@ -13,7 +13,7 @@ Azure Container Instances offers the fastest and simplest way to run a container
 If neccessary - login and (if multiple subscriptions) select required subscription:
 
 ```text
-az login - o table
+az login 
 az account set -s <subscriptionid>
 ```
 
